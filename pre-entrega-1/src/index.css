@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+
+h1 {
+  color: rgb(214, 162, 83);
+  text-align: center;
+  margin-top: 1%;
+}
+
+.navbar-brand {
+  color: rgb(41, 57, 78);
+}
+
+.navbar-brand:hover {
+  color: rgb(173, 116, 30);
+}
