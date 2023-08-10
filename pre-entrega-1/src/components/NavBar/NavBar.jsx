@@ -1,8 +1,8 @@
-import CartWidget from "../cartWidget/cartWidget";
+import CartWidget from "../CartWidget/CartWidget";
 
 const NavBar = () => {
     return (
-        <nav className="navbar navbar-expand-lg bg-body-tertiary navbar-color">
+        <nav className="navbar navbar-expand-lg bg-body-tertiary">
             <div className="container-fluid">
                 {/* Brand */}
                 <a className="navbar-brand">Dietética Fraidias</a>
@@ -31,3 +31,8 @@ const NavBar = () => {
 };
 
 export default NavBar;
+
+// Cuando inicié git, se añadieron muchos archivos de bootstrap
+// esta bien?
+
+// No pude cambiar el color de la barra de navegacion
